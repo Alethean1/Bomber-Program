@@ -1,4 +1,4 @@
-# Bomber-Program
+# Bomber Program
 
 ## Software Used:
 Python 3.6
